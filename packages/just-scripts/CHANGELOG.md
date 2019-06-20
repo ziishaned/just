@@ -1,6 +1,13 @@
 # Changelog - just-scripts
 
-This log was last generated on Tue, 18 Jun 2019 06:34:34 GMT and should not be manually modified.
+This log was last generated on Thu, 20 Jun 2019 17:24:11 GMT and should not be manually modified.
+
+## 0.23.2
+Thu, 20 Jun 2019 17:24:11 GMT
+
+### Patches
+
+- yo (kchau@microsoft.com)
 
 ## 0.23.1
 Tue, 18 Jun 2019 06:34:34 GMT
